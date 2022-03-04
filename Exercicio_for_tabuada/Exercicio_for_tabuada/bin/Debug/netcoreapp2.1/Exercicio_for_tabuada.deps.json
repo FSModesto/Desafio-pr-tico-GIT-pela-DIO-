@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Exercicio_for_tabuada/1.0.0": {
+        "runtime": {
+          "Exercicio_for_tabuada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_for_tabuada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

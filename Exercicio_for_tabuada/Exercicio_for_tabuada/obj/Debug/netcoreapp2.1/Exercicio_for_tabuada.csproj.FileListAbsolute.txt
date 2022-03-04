@@ -1,0 +1,13 @@
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\bin\Debug\netcoreapp2.1\Exercicio_for_tabuada.deps.json
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\bin\Debug\netcoreapp2.1\Exercicio_for_tabuada.runtimeconfig.json
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\bin\Debug\netcoreapp2.1\Exercicio_for_tabuada.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\bin\Debug\netcoreapp2.1\Exercicio_for_tabuada.dll
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\bin\Debug\netcoreapp2.1\Exercicio_for_tabuada.pdb
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\obj\Debug\netcoreapp2.1\Exercicio_for_tabuada.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\obj\Debug\netcoreapp2.1\Exercicio_for_tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\obj\Debug\netcoreapp2.1\Exercicio_for_tabuada.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\obj\Debug\netcoreapp2.1\Exercicio_for_tabuada.AssemblyInfo.cs
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\obj\Debug\netcoreapp2.1\Exercicio_for_tabuada.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\obj\Debug\netcoreapp2.1\Exercicio_for_tabuada.dll
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\obj\Debug\netcoreapp2.1\Exercicio_for_tabuada.pdb
+C:\temp\ws-vs2022\Exercicio_for_tabuada\Exercicio_for_tabuada\obj\Debug\netcoreapp2.1\Exercicio_for_tabuada.genruntimeconfig.cache
